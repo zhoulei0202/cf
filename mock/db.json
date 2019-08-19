@@ -1,0 +1,1259 @@
+{
+  "news": {
+    "title": {
+      "text": "非光纤材料",
+      "subtext": "￥996",
+      "x": "center",
+      "y": 180,
+      "itemGap": 10,
+      "textStyle": {
+        "color": "#B7E1FF",
+        "fontWeight": "normal",
+        "fontFamily": "微软雅黑",
+        "fontSize": 24
+      },
+      "subtextStyle": {
+        "color": "#B7E1FF",
+        "fontWeight": "bolder",
+        "fontSize": 24,
+        "fontFamily": "微软雅黑"
+      }
+    },
+    "series": [
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          75,
+          90
+        ],
+        "x": "0%",
+        "tooltip": {
+          "show": false
+        },
+        "data": [
+          {
+            "name": "达成率",
+            "value": 79,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.8)"
+            },
+            "hoverAnimation": false,
+            "label": {
+              "show": false,
+              "position": "center",
+              "textStyle": {
+                "fontFamily": "微软雅黑",
+                "fontWeight": "bolder",
+                "color": "#B7E1FF",
+                "fontSize": 24
+              }
+            },
+            "labelLine": {
+              "show": false
+            }
+          },
+          {
+            "name": "79%",
+            "value": 21,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.1)"
+            },
+            "hoverAnimation": false,
+            "label": {
+              "show": false,
+              "position": "center",
+              "padding": 20,
+              "textStyle": {
+                "fontFamily": "微软雅黑",
+                "fontSize": 24,
+                "color": "#B7E1FF"
+              }
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          95,
+          100
+        ],
+        "x": "0%",
+        "hoverAnimation": false,
+        "data": [
+          {
+            "value": 100,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.3)"
+            },
+            "label": {
+              "show": false
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          69,
+          70
+        ],
+        "x": "0%",
+        "hoverAnimation": false,
+        "data": [
+          {
+            "value": 100,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.3)"
+            },
+            "label": {
+              "show": false
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "news1": {
+    "title": {
+      "text": "半成品",
+      "subtext": "￥888",
+      "x": "center",
+      "y": 180,
+      "itemGap": 10,
+      "textStyle": {
+        "color": "#B7E1FF",
+        "fontWeight": "normal",
+        "fontFamily": "微软雅黑",
+        "fontSize": 24
+      },
+      "subtextStyle": {
+        "color": "#B7E1FF",
+        "fontWeight": "bolder",
+        "fontSize": 24,
+        "fontFamily": "微软雅黑"
+      }
+    },
+    "series": [
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          75,
+          90
+        ],
+        "x": "0%",
+        "tooltip": {
+          "show": false
+        },
+        "data": [
+          {
+            "name": "达成率",
+            "value": 79,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.8)"
+            },
+            "hoverAnimation": false,
+            "label": {
+              "show": false,
+              "position": "center",
+              "textStyle": {
+                "fontFamily": "微软雅黑",
+                "fontWeight": "bolder",
+                "color": "#B7E1FF",
+                "fontSize": 24
+              }
+            },
+            "labelLine": {
+              "show": false
+            }
+          },
+          {
+            "name": "79%",
+            "value": 21,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.1)"
+            },
+            "hoverAnimation": false,
+            "label": {
+              "show": false,
+              "position": "center",
+              "padding": 20,
+              "textStyle": {
+                "fontFamily": "微软雅黑",
+                "fontSize": 24,
+                "color": "#B7E1FF"
+              }
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          95,
+          100
+        ],
+        "x": "0%",
+        "hoverAnimation": false,
+        "data": [
+          {
+            "value": 100,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.3)"
+            },
+            "label": {
+              "show": false
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          69,
+          70
+        ],
+        "x": "0%",
+        "hoverAnimation": false,
+        "data": [
+          {
+            "value": 100,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.3)"
+            },
+            "label": {
+              "show": false
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "news2": {
+    "title": {
+      "text": "成品",
+      "subtext": "￥4158",
+      "x": "center",
+      "y": 180,
+      "itemGap": 10,
+      "textStyle": {
+        "color": "#B7E1FF",
+        "fontWeight": "normal",
+        "fontFamily": "微软雅黑",
+        "fontSize": 24
+      },
+      "subtextStyle": {
+        "color": "#B7E1FF",
+        "fontWeight": "bolder",
+        "fontSize": 24,
+        "fontFamily": "微软雅黑"
+      }
+    },
+    "series": [
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          75,
+          90
+        ],
+        "x": "0%",
+        "tooltip": {
+          "show": false
+        },
+        "data": [
+          {
+            "name": "达成率",
+            "value": 79,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.8)"
+            },
+            "hoverAnimation": false,
+            "label": {
+              "show": false,
+              "position": "center",
+              "textStyle": {
+                "fontFamily": "微软雅黑",
+                "fontWeight": "bolder",
+                "color": "#B7E1FF",
+                "fontSize": 24
+              }
+            },
+            "labelLine": {
+              "show": false
+            }
+          },
+          {
+            "name": "79%",
+            "value": 21,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.1)"
+            },
+            "hoverAnimation": false,
+            "label": {
+              "show": false,
+              "position": "center",
+              "padding": 20,
+              "textStyle": {
+                "fontFamily": "微软雅黑",
+                "fontSize": 24,
+                "color": "#B7E1FF"
+              }
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          95,
+          100
+        ],
+        "x": "0%",
+        "hoverAnimation": false,
+        "data": [
+          {
+            "value": 100,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.3)"
+            },
+            "label": {
+              "show": false
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      },
+      {
+        "type": "pie",
+        "center": [
+          "50%",
+          "50%"
+        ],
+        "radius": [
+          69,
+          70
+        ],
+        "x": "0%",
+        "hoverAnimation": false,
+        "data": [
+          {
+            "value": 100,
+            "itemStyle": {
+              "color": "rgba(0,153,255,0.3)"
+            },
+            "label": {
+              "show": false
+            },
+            "labelLine": {
+              "show": false
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "querySummaryDataSalesStatements": {
+    "STATUS": "SUCCESS",
+    "DATA": {
+      "salesReceiptMap": {
+        "01": 231.6546,
+        "02": 168.4701,
+        "03": 220.8779,
+        "04": 103.1475,
+        "05": 31.6011,
+        "06": 2.5617,
+        "07": 1.6174
+      },
+      "salesAmountCount": {
+        "SUM_MONEY": 1759.0956,
+        "SUM_F_FIBERLENGTH": 16708,
+        "RECEIPT_AMOUNT": 759.9303,
+        "AVG_PRICE": 10.5285
+      },
+      "salesFiberMap": {
+        "01": 1938,
+        "02": 1322,
+        "03": 1911,
+        "04": 2125,
+        "05": 3166,
+        "06": 3219,
+        "07": 3027
+      },
+      "industryAmountMap": {
+        "0.201": "部队",
+        "4.9602": "电力",
+        "6.9998": "铁通",
+        "18.9878": "石油",
+        "31.6635": "交通(高速公路)",
+        "45.193": "铁路及轨道交通",
+        "49.3892": "铁塔",
+        "98.1389": "广电",
+        "175.4515": "其他",
+        "207.4782": "联通",
+        "430.6142": "电信",
+        "690.0183": "移动"
+      },
+      "agencyReceiptMap": {
+        "6.6381": "东北办",
+        "9.1656": "湘鄂办",
+        "18.8168": "晋豫办",
+        "49.7917": "华南办",
+        "50.0641": "西南办",
+        "56.4782": "云贵办",
+        "64.3699": "山东办",
+        "77.0997": "北京办",
+        "83.4785": "闽浙办",
+        "92.2065": "赣皖办",
+        "95.7478": "西北办",
+        "116.1202": "苏沪办"
+      },
+      "provinceAgencyReceiptMap": {
+        "6.6381": "新疆",
+        "9.1656": "云南",
+        "18.8168": "福建",
+        "49.7917": "山东",
+        "50.0641": "浙江",
+        "56.4782": "安徽",
+        "64.3699": "河南",
+        "77.0997": "陕西",
+        "83.4785": "广西",
+        "92.2065": "贵州",
+        "95.7478": "西藏",
+        "116.1202": "湖北"
+      },
+      "agencyAmountMap": {
+        "36.7473": "东北办",
+        "67.6581": "晋豫办",
+        "114.6518": "云贵办",
+        "133.0227": "赣皖办",
+        "149.5046": "华南办",
+        "149.7343": "闽浙办",
+        "150.9876": "湘鄂办",
+        "162.3857": "西南办",
+        "163.6412": "苏沪办",
+        "163.6568": "西北办",
+        "183.4651": "山东办",
+        "190.6125": "北京办"
+      },
+      "provinceAgencyAmountMap": {
+        "36.7473": "新疆",
+        "67.6581": "云南",
+        "114.6518": "福建",
+        "133.0227": "山东",
+        "149.5046": "浙江",
+        "149.7343": "安徽",
+        "150.9876": "河南",
+        "162.3857": "陕西",
+        "163.6412": "广西",
+        "163.6568": "贵州",
+        "183.4651": "北京",
+        "190.6125": "湖北"
+      },
+      "industryFiberMap": {
+        "1": "部队",
+        "11": "电力",
+        "53": "铁通",
+        "74": "石油",
+        "78": "铁塔",
+        "206": "铁路及轨道交通",
+        "253": "交通(高速公路)",
+        "864": "广电",
+        "1569": "其他",
+        "2829": "联通",
+        "3134": "电信",
+        "7636": "移动"
+      },
+     
+      "agencyFiberMap": {
+        "289": "东北办",
+        "504": "晋豫办",
+        "750": "云贵办",
+        "1117": "赣皖办",
+        "1253": "西南办",
+        "1279": "湘鄂办",
+        "1550": "闽浙办",
+        "1639": "苏沪办",
+        "1744": "山东办",
+        "1758": "西北办",
+        "2010": "北京办"
+      },
+      "provinceAgencyFiberMap": {
+        "289": "新疆",
+        "504": "云南",
+        "750": "福建",
+        "1117": "山东",
+        "1253": "浙江",
+        "1279": "安徽",
+        "1550": "河南",
+        "1639": "陕西",
+        "1744": "广西",
+        "1758": "贵州",
+        "2010": "北京"
+      },
+      "provinceSales": [
+        {
+          "PROVINCE": "重庆",
+          "CONTRACT_MONEY": 43.4353
+        },
+        {
+          "PROVINCE": "广西",
+          "CONTRACT_MONEY": 59.0555
+        },
+        {
+          "PROVINCE": "陕西",
+          "CONTRACT_MONEY": 54.6075
+        },
+        {
+          "PROVINCE": "湖北",
+          "CONTRACT_MONEY": 116.5404
+        },
+        {
+          "PROVINCE": "河南",
+          "CONTRACT_MONEY": 67.6581
+        },
+        {
+          "PROVINCE": "安徽",
+          "CONTRACT_MONEY": 55.5021
+        },
+        {
+          "PROVINCE": "青海",
+          "CONTRACT_MONEY": 10.781
+        },
+        {
+          "PROVINCE": "黑龙江",
+          "CONTRACT_MONEY": 9.1928
+        },
+        {
+          "PROVINCE": "贵州",
+          "CONTRACT_MONEY": 57.8954
+        },
+        {
+          "PROVINCE": "新疆",
+          "CONTRACT_MONEY": 51.5916
+        },
+        {
+          "PROVINCE": "山东",
+          "CONTRACT_MONEY": 120.0223
+        },
+        {
+          "PROVINCE": "宁夏",
+          "CONTRACT_MONEY": 20.0836
+        },
+        {
+          "PROVINCE": "海南",
+          "CONTRACT_MONEY": 10.3857
+        },
+        {
+          "PROVINCE": "吉林",
+          "CONTRACT_MONEY": 12.8701
+        },
+        {
+          "PROVINCE": "福建",
+          "CONTRACT_MONEY": 28.1622
+        },
+        {
+          "PROVINCE": "北京",
+          "CONTRACT_MONEY": 129.3749
+        },
+        {
+          "PROVINCE": "西藏",
+          "CONTRACT_MONEY": 12.8719
+        },
+        {
+          "PROVINCE": "浙江",
+          "CONTRACT_MONEY": 121.5721
+        },
+        {
+          "PROVINCE": "上海",
+          "CONTRACT_MONEY": 52.8056
+        },
+        {
+          "PROVINCE": "四川",
+          "CONTRACT_MONEY": 106.0785
+        },
+        {
+          "PROVINCE": "云南",
+          "CONTRACT_MONEY": 56.7564
+        },
+        {
+          "PROVINCE": "江苏",
+          "CONTRACT_MONEY": 110.8356
+        },
+        {
+          "PROVINCE": "广东",
+          "CONTRACT_MONEY": 80.0634
+        },
+        {
+          "PROVINCE": "江西",
+          "CONTRACT_MONEY": 77.5206
+        },
+        {
+          "PROVINCE": "内蒙古",
+          "CONTRACT_MONEY": 18.2723
+        },
+        {
+          "PROVINCE": "河北",
+          "CONTRACT_MONEY": 42.9653
+        },
+        {
+          "PROVINCE": "辽宁",
+          "CONTRACT_MONEY": 14.6844
+        },
+        {
+          "PROVINCE": "湖南",
+          "CONTRACT_MONEY": 34.4472
+        },
+        {
+          "PROVINCE": "甘肃",
+          "CONTRACT_MONEY": 26.5931
+        },
+        {
+          "PROVINCE": "西北大库",
+          "CONTRACT_MONEY": 0
+        },
+        {
+          "PROVINCE": "天津",
+          "CONTRACT_MONEY": 63.4428
+        },
+        {
+          "PROVINCE": "山西",
+          "CONTRACT_MONEY": 32.1367
+        },
+        {
+          "PROVINCE": "华东大库",
+          "CONTRACT_MONEY": 0
+        }
+      ],
+      "salesAmountMap": {
+        "01": 221.1038,
+        "02": 144.8041,
+        "03": 228.3116,
+        "04": 256.5375,
+        "05": 305.6962,
+        "06": 301.8561,
+        "07": 300.7863
+      }
+    }
+  },
+  "querySummaryDataSalesStatements1": {
+    "STATUS": "SUCCESS",
+    "DATA": {
+      "salesReceiptMap": {
+        "01": 299.6546,
+        "02": 168.4701,
+        "03": 220.8779,
+        "04": 150.1475,
+        "05": 31.6011,
+        "06": 20.5617,
+        "07": 10.6174
+      },
+      "salesAmountCount": {
+        "SUM_MONEY": 759.0956,
+        "SUM_F_FIBERLENGTH": 1678,
+        "RECEIPT_AMOUNT": 259.9303,
+        "AVG_PRICE": 10.5285
+      },
+      "salesFiberMap": {
+        "01": 1938,
+        "02": 1322,
+        "03": 1911,
+        "04": 2125,
+        "05": 3166,
+        "06": 3219,
+        "07": 3027
+      },
+      "industryAmountMap": {
+        "0.201": "部队",
+        "4.9602": "电力",
+        "6.9998": "铁通",
+        "18.9878": "石油",
+        "31.6635": "交通(高速公路)",
+        "45.193": "铁路及轨道交通",
+        "49.3892": "铁塔",
+        "98.1389": "广电",
+        "175.4515": "其他",
+        "207.4782": "联通",
+        "430.6142": "电信",
+        "690.0183": "移动"
+      },
+      "agencyReceiptMap": {
+        "6.6381": "东北办",
+        "9.1656": "湘鄂办",
+        "18.8168": "晋豫办",
+        "49.7917": "华南办",
+        "50.0641": "西南办",
+        "56.4782": "云贵办",
+        "64.3699": "山东办",
+        "77.0997": "北京办",
+        "83.4785": "闽浙办",
+        "92.2065": "赣皖办",
+        "95.7478": "西北办",
+        "116.1202": "苏沪办"
+      },
+      "provinceAgencyReceiptMap": {
+        "6.6381": "东北办",
+        "9.1656": "湘鄂办",
+        "18.8168": "晋豫办",
+        "49.7917": "华南办",
+        "50.0641": "西南办",
+        "56.4782": "云贵办",
+        "64.3699": "山东办",
+        "77.0997": "北京办",
+        "83.4785": "闽浙办",
+        "92.2065": "赣皖办",
+        "95.7478": "西北办",
+        "116.1202": "苏沪办"
+      },
+      "agencyAmountMap": {
+        "36.7473": "东北办",
+        "67.6581": "晋豫办",
+        "114.6518": "云贵办",
+        "133.0227": "赣皖办",
+        "149.5046": "华南办",
+        "149.7343": "闽浙办",
+        "150.9876": "湘鄂办",
+        "162.3857": "西南办",
+        "163.6412": "苏沪办",
+        "163.6568": "西北办",
+        "183.4651": "山东办",
+        "190.6125": "北京办"
+      },
+      "provinceAgencyAmountMap": {
+        "36.7473": "东北办",
+        "67.6581": "晋豫办",
+        "114.6518": "云贵办",
+        "133.0227": "赣皖办",
+        "149.5046": "华南办",
+        "149.7343": "闽浙办",
+        "150.9876": "湘鄂办",
+        "162.3857": "西南办",
+        "163.6412": "苏沪办",
+        "163.6568": "西北办",
+        "183.4651": "山东办",
+        "190.6125": "北京办"
+      },
+      "industryFiberMap": {
+        "1": "部队",
+        "11": "电力",
+        "53": "铁通",
+        "74": "石油",
+        "78": "铁塔",
+        "206": "铁路及轨道交通",
+        "253": "交通(高速公路)",
+        "864": "广电",
+        "1569": "其他",
+        "2829": "联通",
+        "3134": "电信",
+        "7636": "移动"
+      },
+     
+      "agencyFiberMap": {
+        "289": "东北办",
+        "504": "晋豫办",
+        "750": "云贵办",
+        "1117": "赣皖办",
+        "1253": "西南办",
+        "1279": "湘鄂办",
+        "1550": "闽浙办",
+        "1639": "苏沪办",
+        "1744": "山东办",
+        "1758": "西北办",
+        "2010": "北京办"
+      },
+      "provinceAgencyFiberMap": {
+        "289": "东北办",
+        "504": "晋豫办",
+        "750": "云贵办",
+        "1117": "赣皖办",
+        "1253": "西南办",
+        "1279": "湘鄂办",
+        "1550": "闽浙办",
+        "1639": "苏沪办",
+        "1744": "山东办",
+        "1758": "西北办",
+        "2010": "北京办"
+      },
+      "provinceSales": [
+        {
+          "PROVINCE": "重庆",
+          "CONTRACT_MONEY": 43.4353
+        },
+        {
+          "PROVINCE": "广西",
+          "CONTRACT_MONEY": 59.0555
+        },
+        {
+          "PROVINCE": "陕西",
+          "CONTRACT_MONEY": 54.6075
+        },
+        {
+          "PROVINCE": "湖北",
+          "CONTRACT_MONEY": 116.5404
+        },
+        {
+          "PROVINCE": "河南",
+          "CONTRACT_MONEY": 67.6581
+        },
+        {
+          "PROVINCE": "安徽",
+          "CONTRACT_MONEY": 55.5021
+        },
+        {
+          "PROVINCE": "青海",
+          "CONTRACT_MONEY": 10.781
+        },
+        {
+          "PROVINCE": "黑龙江",
+          "CONTRACT_MONEY": 9.1928
+        },
+        {
+          "PROVINCE": "贵州",
+          "CONTRACT_MONEY": 57.8954
+        },
+        {
+          "PROVINCE": "新疆",
+          "CONTRACT_MONEY": 51.5916
+        },
+        {
+          "PROVINCE": "山东",
+          "CONTRACT_MONEY": 120.0223
+        },
+        {
+          "PROVINCE": "宁夏",
+          "CONTRACT_MONEY": 20.0836
+        },
+        {
+          "PROVINCE": "海南",
+          "CONTRACT_MONEY": 10.3857
+        },
+        {
+          "PROVINCE": "吉林",
+          "CONTRACT_MONEY": 12.8701
+        },
+        {
+          "PROVINCE": "福建",
+          "CONTRACT_MONEY": 28.1622
+        },
+        {
+          "PROVINCE": "北京",
+          "CONTRACT_MONEY": 129.3749
+        },
+        {
+          "PROVINCE": "西藏",
+          "CONTRACT_MONEY": 12.8719
+        },
+        {
+          "PROVINCE": "浙江",
+          "CONTRACT_MONEY": 121.5721
+        },
+        {
+          "PROVINCE": "上海",
+          "CONTRACT_MONEY": 52.8056
+        },
+        {
+          "PROVINCE": "四川",
+          "CONTRACT_MONEY": 106.0785
+        },
+        {
+          "PROVINCE": "云南",
+          "CONTRACT_MONEY": 56.7564
+        },
+        {
+          "PROVINCE": "江苏",
+          "CONTRACT_MONEY": 110.8356
+        },
+        {
+          "PROVINCE": "广东",
+          "CONTRACT_MONEY": 80.0634
+        },
+        {
+          "PROVINCE": "江西",
+          "CONTRACT_MONEY": 77.5206
+        },
+        {
+          "PROVINCE": "内蒙古",
+          "CONTRACT_MONEY": 18.2723
+        },
+        {
+          "PROVINCE": "河北",
+          "CONTRACT_MONEY": 42.9653
+        },
+        {
+          "PROVINCE": "辽宁",
+          "CONTRACT_MONEY": 14.6844
+        },
+        {
+          "PROVINCE": "湖南",
+          "CONTRACT_MONEY": 34.4472
+        },
+        {
+          "PROVINCE": "甘肃",
+          "CONTRACT_MONEY": 26.5931
+        },
+        {
+          "PROVINCE": "西北大库",
+          "CONTRACT_MONEY": 0
+        },
+        {
+          "PROVINCE": "天津",
+          "CONTRACT_MONEY": 63.4428
+        },
+        {
+          "PROVINCE": "山西",
+          "CONTRACT_MONEY": 32.1367
+        },
+        {
+          "PROVINCE": "华东大库",
+          "CONTRACT_MONEY": 0
+        }
+      ],
+      "salesAmountMap": {
+        "01": 221.1038,
+        "02": 144.8041,
+        "03": 228.3116,
+        "04": 256.5375,
+        "05": 305.6962,
+        "06": 301.8561,
+        "07": 300.7863
+      }
+    }
+  },
+  "querySummaryDataSalesStatements2": {
+    "STATUS": "SUCCESS",
+    "DATA": {
+      "salesReceiptMap": {
+        "01": 231.6546,
+        "02": 168.4701,
+        "03": 220.8779,
+        "04": 103.1475,
+        "05": 31.6011,
+        "06": 2.5617,
+        "07": 1.6174
+      },
+      "salesAmountCount": {
+        "SUM_MONEY": 20.0956,
+        "SUM_F_FIBERLENGTH": 1111,
+        "RECEIPT_AMOUNT": 99.9303,
+        "AVG_PRICE": 10.5285
+      },
+      "salesFiberMap": {
+        "01": 1938,
+        "02": 1322,
+        "03": 1911,
+        "04": 2125,
+        "05": 3166,
+        "06": 3219,
+        "07": 3027
+      },
+      "industryAmountMap": {
+        "0.201": "部队",
+        "4.9602": "电力",
+        "6.9998": "铁通",
+        "18.9878": "石油",
+        "31.6635": "交通(高速公路)",
+        "45.193": "铁路及轨道交通",
+        "49.3892": "铁塔",
+        "98.1389": "广电",
+        "175.4515": "其他",
+        "207.4782": "联通",
+        "430.6142": "电信",
+        "690.0183": "移动"
+      },
+      "agencyReceiptMap": {
+        "6.6381": "东北办",
+        "9.1656": "湘鄂办",
+        "18.8168": "晋豫办",
+        "49.7917": "华南办",
+        "50.0641": "西南办",
+        "56.4782": "云贵办",
+        "64.3699": "山东办",
+        "77.0997": "北京办",
+        "83.4785": "闽浙办",
+        "92.2065": "赣皖办",
+        "95.7478": "西北办",
+        "116.1202": "苏沪办"
+      },
+      "provinceAgencyReceiptMap": {
+        "6.6381": "东北办",
+        "9.1656": "湘鄂办",
+        "18.8168": "晋豫办",
+        "49.7917": "华南办",
+        "50.0641": "西南办",
+        "56.4782": "云贵办",
+        "64.3699": "山东办",
+        "77.0997": "北京办",
+        "83.4785": "闽浙办",
+        "92.2065": "赣皖办",
+        "95.7478": "西北办",
+        "116.1202": "苏沪办"
+      },
+      "agencyAmountMap": {
+        "36.7473": "东北办",
+        "67.6581": "晋豫办",
+        "114.6518": "云贵办",
+        "133.0227": "赣皖办",
+        "149.5046": "华南办",
+        "149.7343": "闽浙办",
+        "150.9876": "湘鄂办",
+        "162.3857": "西南办",
+        "163.6412": "苏沪办",
+        "163.6568": "西北办",
+        "183.4651": "山东办",
+        "190.6125": "北京办"
+      },
+      "provinceAgencyAmountMap": {
+        "36.7473": "湖北",
+        "67.6581": "晋豫办",
+        "114.6518": "云贵办",
+        "133.0227": "赣皖办",
+        "149.5046": "华南办",
+        "149.7343": "闽浙办",
+        "150.9876": "湘鄂办",
+        "162.3857": "西南办",
+        "163.6412": "苏沪办",
+        "163.6568": "西北办",
+        "183.4651": "山东办",
+        "190.6125": "北京办"
+      },
+      "industryFiberMap": {
+        "1": "部队",
+        "11": "电力",
+        "53": "铁通",
+        "74": "石油",
+        "78": "铁塔",
+        "206": "铁路及轨道交通",
+        "253": "交通(高速公路)",
+        "864": "广电",
+        "1569": "其他",
+        "2829": "联通",
+        "3134": "电信",
+        "7636": "移动"
+      },
+     
+      "agencyFiberMap": {
+        "289": "东北办",
+        "504": "晋豫办",
+        "750": "云贵办",
+        "1117": "赣皖办",
+        "1253": "西南办",
+        "1279": "湘鄂办",
+        "1550": "闽浙办",
+        "1639": "苏沪办",
+        "1744": "山东办",
+        "1758": "西北办",
+        "2010": "北京办"
+      },
+      "provinceAgencyFiberMap": {
+        "289": "东北办",
+        "504": "晋豫办",
+        "750": "云贵办",
+        "1117": "赣皖办",
+        "1253": "西南办",
+        "1279": "湘鄂办",
+        "1550": "闽浙办",
+        "1639": "苏沪办",
+        "1744": "山东办",
+        "1758": "西北办",
+        "2010": "北京办"
+      },
+      "provinceSales": [
+        {
+          "PROVINCE": "重庆",
+          "CONTRACT_MONEY": 43.4353
+        },
+        {
+          "PROVINCE": "广西",
+          "CONTRACT_MONEY": 59.0555
+        },
+        {
+          "PROVINCE": "陕西",
+          "CONTRACT_MONEY": 54.6075
+        },
+        {
+          "PROVINCE": "湖北",
+          "CONTRACT_MONEY": 116.5404
+        },
+        {
+          "PROVINCE": "河南",
+          "CONTRACT_MONEY": 67.6581
+        },
+        {
+          "PROVINCE": "安徽",
+          "CONTRACT_MONEY": 55.5021
+        },
+        {
+          "PROVINCE": "青海",
+          "CONTRACT_MONEY": 10.781
+        },
+        {
+          "PROVINCE": "黑龙江",
+          "CONTRACT_MONEY": 9.1928
+        },
+        {
+          "PROVINCE": "贵州",
+          "CONTRACT_MONEY": 57.8954
+        },
+        {
+          "PROVINCE": "新疆",
+          "CONTRACT_MONEY": 51.5916
+        },
+        {
+          "PROVINCE": "山东",
+          "CONTRACT_MONEY": 120.0223
+        },
+        {
+          "PROVINCE": "宁夏",
+          "CONTRACT_MONEY": 20.0836
+        },
+        {
+          "PROVINCE": "海南",
+          "CONTRACT_MONEY": 10.3857
+        },
+        {
+          "PROVINCE": "吉林",
+          "CONTRACT_MONEY": 12.8701
+        },
+        {
+          "PROVINCE": "福建",
+          "CONTRACT_MONEY": 28.1622
+        },
+        {
+          "PROVINCE": "北京",
+          "CONTRACT_MONEY": 129.3749
+        },
+        {
+          "PROVINCE": "西藏",
+          "CONTRACT_MONEY": 12.8719
+        },
+        {
+          "PROVINCE": "浙江",
+          "CONTRACT_MONEY": 121.5721
+        },
+        {
+          "PROVINCE": "上海",
+          "CONTRACT_MONEY": 52.8056
+        },
+        {
+          "PROVINCE": "四川",
+          "CONTRACT_MONEY": 106.0785
+        },
+        {
+          "PROVINCE": "云南",
+          "CONTRACT_MONEY": 56.7564
+        },
+        {
+          "PROVINCE": "江苏",
+          "CONTRACT_MONEY": 110.8356
+        },
+        {
+          "PROVINCE": "广东",
+          "CONTRACT_MONEY": 80.0634
+        },
+        {
+          "PROVINCE": "江西",
+          "CONTRACT_MONEY": 77.5206
+        },
+        {
+          "PROVINCE": "内蒙古",
+          "CONTRACT_MONEY": 18.2723
+        },
+        {
+          "PROVINCE": "河北",
+          "CONTRACT_MONEY": 42.9653
+        },
+        {
+          "PROVINCE": "辽宁",
+          "CONTRACT_MONEY": 14.6844
+        },
+        {
+          "PROVINCE": "湖南",
+          "CONTRACT_MONEY": 34.4472
+        },
+        {
+          "PROVINCE": "甘肃",
+          "CONTRACT_MONEY": 26.5931
+        },
+        {
+          "PROVINCE": "西北大库",
+          "CONTRACT_MONEY": 0
+        },
+        {
+          "PROVINCE": "天津",
+          "CONTRACT_MONEY": 63.4428
+        },
+        {
+          "PROVINCE": "山西",
+          "CONTRACT_MONEY": 32.1367
+        },
+        {
+          "PROVINCE": "华东大库",
+          "CONTRACT_MONEY": 0
+        }
+      ],
+      "salesAmountMap": {
+        "01": 221.1038,
+        "02": 144.8041,
+        "03": 228.3116,
+        "04": 256.5375,
+        "05": 305.6962,
+        "06": 301.8561,
+        "07": 300.7863
+      }
+    }
+  }
+}
