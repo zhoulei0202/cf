@@ -1,16 +1,11 @@
 <template>
-  <div id="myChart6" :style="{width: '24vw', height: '75vh'}"></div>
+  <div id="myChart4" :style="{width: '32vw', height: '80vh',background:'#ECFBF7'}"></div>
 </template>
 
 <script>
-// import TodoItem from "@/components/TodoItem";
-// import { mapState, mapGetters, mapMutations } from "vuex";
 export default {
-  name: "hello",
   data() {
-    return {
-      // msg: "Welcome to Your Vue.js App"
-    };
+    return {};
   },
   mounted() {
     this.drawLine();
@@ -19,10 +14,9 @@ export default {
     drawLine() {
      
       // 基于准备好的dom，初始化echarts实例
-      let myChart = this.$echarts.init(document.getElementById("myChart6"));
+      let myChart = this.$echarts.init(document.getElementById("myChart4"));
       // 绘制图表
       let option = {
-     
         tooltip: {
           trigger: "axis",
           axisPointer: {
@@ -31,7 +25,7 @@ export default {
         },
 
         grid: {
-          left: "3%",
+          left: "2%",
           right: "5%",
           bottom: "3%",
           containLabel: true
@@ -81,12 +75,21 @@ export default {
           }
         ]
       };
+
       myChart.setOption(option);
-    
+      myChart.on("click", function(params) {
+        debugger;
+        //监听地图点击事件
+        // _this.$router.push({ path: "/SaleHomePage1" });
+        _this.$router.push({ path: "/HomePage" });
+      });
     }
   }
 };
 </script>
 
 <style scoped>
+#myChart4 {
+  box-sizing: border-box;
+}
 </style>

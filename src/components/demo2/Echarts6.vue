@@ -1,5 +1,5 @@
 <template>
-  <div id="myChart6" :style="{width: '24vw', height: '75vh'}"></div>
+  <div id="myChart6" :style="{width: '32vw', height: '80vh',background:'#ECFBF7'}"></div>
 </template>
 
 <script>
@@ -17,12 +17,10 @@ export default {
   },
   methods: {
     drawLine() {
-     
       // 基于准备好的dom，初始化echarts实例
       let myChart = this.$echarts.init(document.getElementById("myChart6"));
       // 绘制图表
       let option = {
-     
         tooltip: {
           trigger: "axis",
           axisPointer: {
@@ -70,19 +68,18 @@ export default {
               color: "#09F"
             }
           },
-          data: location
+          data: ["湖南", "山东"]
         },
         series: [
           {
             // name: "金额",
             type: "bar",
             color: "#7CBAED",
-            data: amont
+            data: [999, 888]
           }
         ]
       };
       myChart.setOption(option);
-    
     }
   }
 };

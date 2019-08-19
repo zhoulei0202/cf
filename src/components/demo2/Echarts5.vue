@@ -1,28 +1,42 @@
 <template>
-  <div id="myChart6" :style="{width: '24vw', height: '75vh'}"></div>
+  <div id="myChart5" :style="{width: '32vw', height: '80vh',background:'#ECFBF7'}"></div>
 </template>
 
 <script>
 // import TodoItem from "@/components/TodoItem";
 // import { mapState, mapGetters, mapMutations } from "vuex";
 export default {
-  name: "hello",
   data() {
     return {
-      // msg: "Welcome to Your Vue.js App"
+      msg: "Welcome to Your Vue.js App"
     };
   },
   mounted() {
-    this.drawLine();
+    // this.drawLine();
   },
   methods: {
-    drawLine() {
-     
+    drawLine(data) {
+      var _this = this;
+      var location = [];
+      var amont = [];
+      var k;
+      for (k in data) {
+        location.push(data[k]);
+        amont.push(k);
+      }
       // 基于准备好的dom，初始化echarts实例
-      let myChart = this.$echarts.init(document.getElementById("myChart6"));
+      let myChart = this.$echarts.init(document.getElementById("myChart5"));
       // 绘制图表
       let option = {
-     
+        // title: {
+        //   text: "办事处芯公里排名",
+        //   x: "center",
+        //   textStyle: {
+        //     color: "#394592",
+        //     fontFamily: "微软雅黑",
+        //     fontSize: 18
+        //   }
+        // },
         tooltip: {
           trigger: "axis",
           axisPointer: {
@@ -82,11 +96,14 @@ export default {
         ]
       };
       myChart.setOption(option);
-    
+     
     }
   }
 };
 </script>
 
 <style scoped>
+#myChart5 {
+  box-sizing: border-box;
+}
 </style>

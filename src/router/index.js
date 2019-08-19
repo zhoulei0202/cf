@@ -15,6 +15,7 @@ import techtwo from '@/components/demo3/techtwo'
 import techthree from '@/components/demo3/techthree'
 import technologytwo from '@/components/demo3/technologytwo'
 import technology from '@/components/demo3/technology'
+import HomePage1 from '@/components/demo2/HomePage'
 
 
 Vue.use(Router)
@@ -99,6 +100,11 @@ export default new Router({
       path: "/techthree",
       name: "techthree",
       component: techthree
+      },
+      {
+        path: '/HomePage1',
+        name: 'HomePage1',
+        component: HomePage1
       },
   ]
 })
